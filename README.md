@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Alappat @maria-c-a
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Computer Vision .. and anything really!
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Computer Vision!
 - 🌱 I’m currently learning how to make image and object detection deep learning models
 - 💞️ I’m looking to collaborate on anything using deep learning models. 
 - 📫 email me at maria.alappat@gmail.com
